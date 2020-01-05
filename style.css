@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #F6F4F3;
+  display: grid;
+  justify-content: center;
+}
+
+.container {
+  margin-top: 2rem;
+}
+
+h1 {
+  font-size: 1.4rem;
+}
